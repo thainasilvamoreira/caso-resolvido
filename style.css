@@ -1,0 +1,38 @@
+body{
+background-color: rgb(131, 0, 0);
+color: rgb(0, 193, 241);
+font-family: "henny Penny", cursive;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+
+}
+
+button{
+background-color: rgb(99, 0, 0);
+color: black;
+font-family: "Henny Penny", cursive;
+
+
+}
+.passo{
+ display: none;
+
+}
+
+.passo.ativo{ 
+ display: block;
+ 
+}
+
+main{
+  text-align: center;
+  max-width: 90;
+
+}
+
+img{
+    max-width: 80;
+}
